@@ -12,6 +12,9 @@
     }
   ],
   "autoload": {
+    "files": [
+      "src/RandomStrings.php", "src/ManageStrings.php"
+    ],
     "psr-4": {
       "basteyy\\Stringer\\": "src/"
     }
