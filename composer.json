@@ -1,6 +1,13 @@
 {
   "name": "basteyy/php-stringer",
-  "description": "A simple stringer for PHP",
+  "description": "A simple php class which provides a few function for manipulating strings, get random strings and work with times/datetime objects.",
+  "keywords": [
+    "php",
+    "string",
+    "random",
+    "time",
+    "datetime"
+  ],
   "type": "library",
   "license": "MIT",
   "authors": [
@@ -13,7 +20,7 @@
   ],
   "autoload": {
     "files": [
-      "src/RandomStrings.php", "src/ManageStrings.php"
+      "src/Randoms.php", "src/Strings.php", "src/Times.php"
     ],
     "psr-4": {
       "basteyy\\Stringer\\": "src/"
