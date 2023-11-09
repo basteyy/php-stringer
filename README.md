@@ -1,10 +1,6 @@
-# Get and clean strings
+# basteyy`s PHP Stringer Package
 
-Yep, you know the struggle: there a new password, here a new private numeric string and again and again you have to clean it up. This package helps you to get rid of the hassle. 
-
->
-> Attention: This package is for PHP 8.3 and above. But it should work under PHP 8.1 and above too. But to be honest, I didn't test it and you should update to PHP 8.3 anyway.
-> 
+Every developer knows the drill: Here I need a random string, there I have to generate a URL from an input, and then I want to find out how long ago an event was. This package bundles a few functions that I constantly need in my projects. You are welcome to contribute and expand it.
 
 ## Installation
 
